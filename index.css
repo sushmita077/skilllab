@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid #ddd; /* Customize card border */
+  border-radius: 8px; /* Customize card border radius */
+}
+
+.card-img-top {
+  height: 150px; /* Customize card image height */
+  object-fit: cover; /* Ensure image covers the card area */
+}
+
+.btn-primary {
+  background-color: #007bff; /* Customize button color */
+}
